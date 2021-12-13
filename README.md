@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PaneradFisk
 - 👀 I’m interested in creating things.
-- 🌱 I’m currently learning SwiftUI and Python.
+- 🌱 I’m currently learning <insert random technology I find>.
 - 📞 How to reach me - I reach you.
 
 <!---
